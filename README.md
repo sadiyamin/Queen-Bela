@@ -33,4 +33,4 @@
 | **[Sadeesha_Min]**</br>Founder & Developer</br>*[M.R.Sadeesha]* | **[Duleepha]**</br>Voice Suported<br>*[M.S.Duleepha]* |
 
 
-# <h5> <color="red"> Thank You 🐣</h5>
+# <h5>Thank You 🐣</h5>
