@@ -27,12 +27,10 @@
 ![Visitor Count](https://profile-counter.glitch.me/Sadeesha/count.svg)
         
 ## 👸🏻 Queen Bella Team (Min Tech) *[ Since 2021 ]*
-
- 
- 
-    | <a href=""><img src="https://i.ibb.co/yqKYsrV/sadeesha.jpg" width=80 height=80></a> | <a href=""><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=80 height=80></a> |
-    |---|---|
-    | **[Sadeesha_Min]**</br>Founder & Developer</br>*[M.R.Sadeesha]* | **[Duleepha]**</br>Voice Suported<br>*[M.S.Duleepha]* |
-
+<table>
+| <a href=""><img src="https://i.ibb.co/yqKYsrV/sadeesha.jpg" width=80 height=80></a> | <a href=""><img src="https://i.ibb.co/5LyfKBd/IMG-20231226-WA0014-01.jpg" width=80 height=80></a> |
+|---|---|
+| **[Sadeesha_Min]**</br>Founder & Developer</br>*[M.R.Sadeesha]* | **[Duleepha]**</br>Voice Suported<br>*[M.S.Duleepha]* |
+</table>
 
 # <h5>Thank You 🐣</h5>
